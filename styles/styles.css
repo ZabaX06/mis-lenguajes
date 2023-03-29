@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/patron-marmol-natural-fondo_1258-22162.jpg);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Gajraj One', cursive;
+}
+.gate{
+    color:white;
+    text-align: center;
+    font-family: 'Smokum', cursive;
+}
+
+.cuerpo{
+    color: white;
+}
+
+.tokyo{
+    color: white;
+    text-align: center;
+    font-family: 'Smokum', cursive;
+}
+
+.solo{
+    color: white;
+    text-align: center;
+    font-family: 'Smokum', cursive;
+}
+
+.tensei{
+    color: white;
+    text-align: center;
+    font-family: 'Smokum', cursive;
+}
+
+.iruma{
+    color: white;
+    text-align: center;
+    font-family: 'Smokum', cursive;
+}
+
+.tablas{
+    background-color:black;
+}
